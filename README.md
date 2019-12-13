@@ -1,4 +1,6 @@
-#Hearts
+**Hearts**
+
+
 大二第二学期Haskell的作业，Haskell是一个纯函数编程的语言。得分比较低据说是因为语法不够“高级”。应该是因为没用bind那些的，虽然我尽力用了点point free但是well...
 
 介绍：
